@@ -1,0 +1,13 @@
+body{
+  background: rgb(22, 172, 114);
+}
+.clock{
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-30%)translateY(60%);
+  color: #e4e708;
+  font-size: 100px;
+  font-family: 'Trebuchet MS';
+  letter-spacing: 7px;
+}
